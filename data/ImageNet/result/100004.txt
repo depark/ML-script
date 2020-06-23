@@ -1,0 +1,7 @@
+inception
+1. cliff: 80.87%
+2. promontory: 11.58%
+3. seashore: 0.36%
+4. volcano: 0.25%
+5. valley: 0.14%
+预测使用时间 27 s
